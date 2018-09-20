@@ -1,0 +1,6 @@
+init
+launchLander 6000 10.75106421 -48.83046814 0
+parachute 7827.2 22.2
+video 7000 0 270
+landing 13000 0 0
+video 19000 0 270
